@@ -49,6 +49,8 @@ akamai onboard create --file ~/path/to/setup.json
 See templates/sample_setup.json file for an initial empty setup file.  Details below
 
 <details><summary>Sample File Contents</summary>
+<p>
+
 ```bash
 {
     "property_info": {
@@ -111,6 +113,8 @@ See templates/sample_setup.json file for an initial empty setup file.  Details b
     ]
 }
 ```
+
+</p>
 </details>
 
 
